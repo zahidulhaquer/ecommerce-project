@@ -1,4 +1,6 @@
-import { Link } from 'react-router';
+import { Link } from "react-router-dom";
+// import { Link } from 'react-router'; did not work for this line.
+
 import './header.css';
 
 export function Header() {
