@@ -14,7 +14,7 @@ export function TrackingPage() {
 
         <div class="middle-section">
           <input class="search-bar" type="text" placeholder="Search" />
-
+ 
           <button class="search-button">
             <img class="search-icon" src="images/icons/search-icon.png" />
           </button>
